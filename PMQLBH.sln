@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMQLBH", "PMQLBH\PMQLBH.csproj", "{85C24696-0756-4D51-8EC0-55D4CD427509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C24696-0756-4D51-8EC0-55D4CD427509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C24696-0756-4D51-8EC0-55D4CD427509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C24696-0756-4D51-8EC0-55D4CD427509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C24696-0756-4D51-8EC0-55D4CD427509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4D86E7-2BD2-4116-A036-1D24C865B50D}
+	EndGlobalSection
+EndGlobal
